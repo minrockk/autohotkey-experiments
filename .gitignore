@@ -1,0 +1,14 @@
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Obsidian & AutoHotkey temp
+.obsidian/
+*.bak
+*.tmp
+*.log
+
+# Ignore compiled
+*.exe
